@@ -29,10 +29,10 @@ The goal of this project is to practice **HTML structure and content layout** wi
 
 ```text
 event-page/
-        |-------assets/
+|-------assets/
         |--------date.png
-|--------event1.png
-|--------event2.png
+        |--------event1.png
+        |--------event2.png
 |-------index.html
 |-------readme.md
 ```
