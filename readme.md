@@ -27,13 +27,15 @@ The goal of this project is to practice **HTML structure and content layout** wi
 
 ## 📂 Project structure
 
+```text
 event-page/
 |-------assets/
-        |--------date.png
-        |--------event1.png
-        |--------event2.png
+|--------date.png
+|--------event1.png
+|--------event2.png
 |-------index.html
 |-------readme.md
+```
 
 ---
 
@@ -69,5 +71,6 @@ event-page/
 
 ## 🧑‍💻Author
 
-- S. Sathyanarayan | Aspiring Full-Stack Developer
+**S. Sathyanarayanan**
+-Aspiring Full-Stack Developer
 - GitHub: https://github.com/sathyanarayanan-devs
