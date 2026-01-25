@@ -72,5 +72,5 @@ event-page/
 ## 🧑‍💻Author
 
 **S. Sathyanarayanan**
--Aspiring Full-Stack Developer
+- Aspiring Full-Stack Developer
 - GitHub: https://github.com/sathyanarayanan-devs
