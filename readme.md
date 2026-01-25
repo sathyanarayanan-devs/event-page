@@ -29,8 +29,8 @@ The goal of this project is to practice **HTML structure and content layout** wi
 
 ```text
 event-page/
-|-------assets/
-|--------date.png
+        |-------assets/
+        |--------date.png
 |--------event1.png
 |--------event2.png
 |-------index.html
